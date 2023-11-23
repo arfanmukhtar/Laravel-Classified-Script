@@ -1,8 +1,8 @@
-# Laravel 9 Classified Script
+# Laravel Classified Script
 A Starter for Classified Script With Homepage, search listings, Post an ad and more <br>
 ## Demo
-https://alsvinparts.com <br>
-https://changanautoparts.com
+https://laravelclassified.com <br>
+https://demo.laravelclassified.com
 
 
 ## Pages 
@@ -12,4 +12,4 @@ Listing Detail Page<br>
 Post an Ad page <br>
 
 ## Contact
-changanautoparts@gmail.com
+admin@laravelclassified.com
