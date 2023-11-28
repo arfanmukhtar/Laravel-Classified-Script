@@ -39,16 +39,16 @@ https://realestate.laravelclassified.com
 17. Custom Fields for Category 
 18. Search by Custom fields
 19. Favorite Ads 
-20: Easy to Install 
-21: Easy to update for quick fixes
-22: List of countries page
-23: CMS for Static pages (Create pages like: About Us, FAQ, Terms & Privacy, etc.)
-24: Messaging System 
-25: Google ReCaptcha integrated
-26: Facebook, Google, LinkedIn Social Logins 
-27: Frameworks: Laravel, Bootstrap, jQuery 
-28: Clean and Modern Design
-29: Ready to use
+20. Easy to Install<br>
+21. Easy to update for quick fixes<br>
+22. List of countries page<br>
+23. CMS for Static pages (Create pages like: About Us, FAQ, Terms & Privacy, etc.)<br>
+24. Messaging System <br>
+25. Google ReCaptcha integrated<br>
+26. Facebook, Google, LinkedIn Social Logins <br>
+27. Frameworks: Laravel, Bootstrap, jQuery <br>
+28. Clean and Modern Design<br>
+29. Ready to use<br>
 and much more..
 
 ## Contact
