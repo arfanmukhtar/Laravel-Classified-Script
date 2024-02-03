@@ -52,5 +52,5 @@ https://realestate.laravelclassified.com
 and much more..
 
 ## Contact
-**Email**:admin@laravelclassified.com
+**Email**: arfan67@gmail.com
 <br>**Skype**: cent040
