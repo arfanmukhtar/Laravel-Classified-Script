@@ -2,8 +2,9 @@
 Introducing Laravel Classified, a user-friendly subscription-based multivendor classified listing or directory website built on Laravel 10 and Bootstrap. Admins can easily create featured plans with limits, and the product guarantees long-term support and updates. With its simplicity and versatility, Laravel Classified is perfect for crafting Automobile, Real Estate, and Listing sites. 
 
 If you are in need of a script tailored to a specific niche, we are here to assist you with any customization requirements.
-<a href="" target="_blank">
-<img width="350" alt="bmc-button" src="https://github.com/user-attachments/assets/71fddf38-85ed-4a21-9cd6-fdf08dc89f04"> <a/>
+
+<a href="https://buymeacoffee.com/arfan" target="_blank">
+<img width="350" alt="bmc-button" src="https://skiptotheendpoint.co.uk/content/images/2024/07/yellow-button.png"> <a/>
 
 
 ![Laravel Classified _ Best Application in Market](https://github.com/user-attachments/assets/d04a1af0-6e0d-4afb-90ec-6b30ad5ef993)
@@ -59,6 +60,6 @@ and much more..
 **Email**: arfan67@gmail.com
 <br>**Skype**: cent040
 
-<a href="" target="_blank">
-<img width="350" alt="bmc-button" src="https://github.com/user-attachments/assets/71fddf38-85ed-4a21-9cd6-fdf08dc89f04"> <a/>
+<a href="https://buymeacoffee.com/arfan" target="_blank">
+<img width="350" alt="bmc-button" src="https://skiptotheendpoint.co.uk/content/images/2024/07/yellow-button.png"> <a/>
 
