@@ -1,0 +1,17 @@
+{
+    "name": "laravelclassified/stake",
+    "type": "project",
+    "license": "Arfan",
+    "autoload": {
+        "psr-4": {
+            "Laravelclassified\\Stake\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "M Arfan",
+            "email": "arfan67@gmail.com"
+        }
+    ],
+    "require": {}
+}

@@ -1,0 +1,51 @@
+<?php
+
+$lang ['all_ads']                                             = 'All Ads';
+$lang ['back_to_results']                                     = 'Back to Results';
+$lang ['company_ad']                                          = 'Company ad';
+$lang ['ads_details']                                         = 'Ads Details';
+$lang ['price']                                               = 'Price';
+$lang ['tags']                                                = 'Tags';
+$lang ['location']                                            = 'Location';
+$lang ['condition']                                           = 'Condition';
+$lang ['new']                                                 = 'New';
+$lang ['more_ads_by_user']                                    = 'More ads by User';
+$lang ['save_ad']                                             = 'Save ad';
+$lang ['share_ad']                                            = 'Share ad';
+$lang ['report abuse']                                        = 'Report abuse';
+$lang ['send_message']                                        = 'Send a message';
+$lang ['posted_by']                                           = 'Posted By';
+$lang ['follow_user']                                         = 'Follow User';
+$lang ['joined']                                              = 'Joined';
+$lang ['last_online']                                         = 'Last Online';
+$lang ['contact_user']                                        = 'Contact User';
+$lang ['safety_tips']                                         = 'Safety Tips for Buyers';
+$lang ['meet_seller_at_public_place']                         = 'Meet seller at a public place';
+$lang ['check_item_before_buy']                               = 'Check the item before you buy';
+$lang ['pay_after_collecting_item']                           = 'Pay only after collecting the item';
+$lang ['know_more']                                           = 'Know more';
+$lang ['category']                                            = 'Category';
+$lang ['city']                                                = 'City';
+$lang ['last_updated']                                        = 'Last Updated:';
+$lang ['Seller_comments']                                     = "Seller's Comments";
+$lang ['phone_number']                                        = "Show Phone Number";
+$lang ['ago_3_hours']                                         = "3 Hours ago";
+$lang ['more_ads']                                            = "more ads by";
+$lang ['friends_seller']                                      = "See if your friends know this seller";
+$lang ['connect_with']                                        = "Connect with";
+$lang ['facebook']                                            = "facebook";
+$lang ['related_ads']                                         = "Related Ads";
+$lang ['contact_advertiser']                                  = 'Contact advertiser';
+$lang ['close']                                               = 'Close';
+$lang ['subject']                                             = 'Subject';
+$lang ['message']                                             = 'Message';
+$lang ['interested_item']                                     = 'Hi, I am interested in your item';
+$lang ['let_me_know']                                         = "Please let me know if it's still available.";
+$lang ['thanks']                                              = 'Thanks.';
+$lang ['not_valid']                                           = 'The form is not valid.';
+$lang ['cancel']                                              = 'Cancel';
+$lang ['send_message']                                        = 'Send message!';
+$lang ['seller_comments']                                     = 'Comments!';
+
+
+return $lang;

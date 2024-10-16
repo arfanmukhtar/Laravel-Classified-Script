@@ -1,0 +1,10 @@
+:root {
+    --theme-brand: #d9534f;
+    --theme-blue: 200, 80%, 38%;
+    --theme-red: 350, 63%, 52%;
+    --theme-pink: 350, 100%, 69%;
+    --theme-black: 0, 7%, 9%;
+    --theme-white: 0, 0%, 100%;
+    --theme-light: 40, 100%, 97%;
+    --theme-dark: 0, 7%, 29%;
+  }

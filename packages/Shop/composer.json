@@ -1,0 +1,15 @@
+{
+    "name": "laravelclassified/shop",
+    "autoload": {
+        "psr-4": {
+            "Laravelclassified\\Shop\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "M Arfan",
+            "email": "arfan67@gmail.com"
+        }
+    ],
+    "require": {}
+}
