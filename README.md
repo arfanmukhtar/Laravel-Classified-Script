@@ -1,64 +1,64 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
+# Laravel Classified Script
+Introducing Laravel Classified, a user-friendly subscription-based multivendor classified listing or directory website built on Laravel 10 and Bootstrap. Admins can easily create featured plans with limits, and the product guarantees long-term support and updates. With its simplicity and versatility, Laravel Classified is perfect for crafting Automobile, Real Estate, and Listing sites. 
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+If you are in need of a script tailored to a specific niche, we are here to assist you with any customization requirements.
+<a href="" target="_blank">
+<img width="350" alt="bmc-button" src="https://github.com/user-attachments/assets/71fddf38-85ed-4a21-9cd6-fdf08dc89f04"> <a/>
 
-## About Laravel
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+![Laravel Classified _ Best Application in Market](https://github.com/user-attachments/assets/d04a1af0-6e0d-4afb-90ec-6b30ad5ef993)
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+# Our Products
+### Classified Ads Script
+### Real Estate Script
+### Auto Mobiles Script
+### Jobs Listing
+### Events Listing 
+### Directory Listing
+### Handyman Script 
+### Services Booking
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+![Items for sale in your area _ Laravel Classified](https://github.com/user-attachments/assets/13827c6b-37de-4ae1-91ca-c3a99de3e573)
 
-## Learning Laravel
+![Post a Free Ad on Laravel Classified _ Laravel Classified - Copy](https://github.com/user-attachments/assets/e21f7f53-cea6-4c43-a59a-a8f03566b414)
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+## Features
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+1. Multivendor Listing
+2. Features Listing Packages
+3. Admin Panel to control everything
+4. Homepage Customization
+5. SEO optimized
+6. Email Templates
+7. Applciation Settings 
+8. Drag & Drop Menu
+9. Advertisements (Image and Code)
+10. Custom Pages
+11. Base Currency Settings
+12. Country Selection 
+13. Import City & Areas of Country 
+14. User Ads management 
+15. User Panel to manage Ads and Notifications
+16. Advance Search 
+17. Custom Fields for Category 
+18. Search by Custom fields
+19. Favorite Ads 
+20. Easy to Install<br>
+21. Easy to update for quick fixes<br>
+22. List of countries page<br>
+23. CMS for Static pages (Create pages like: About Us, FAQ, Terms & Privacy, etc.)<br>
+24. Messaging System <br>
+25. Google ReCaptcha integrated<br>
+26. Facebook, Google, LinkedIn Social Logins <br>
+27. Frameworks: Laravel, Bootstrap, jQuery <br>
+28. Clean and Modern Design<br>
+29. Ready to use<br>
+and much more..
 
-## Laravel Sponsors
+## Contact
+**Email**: arfan67@gmail.com
+<br>**Skype**: cent040
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+<a href="" target="_blank">
+<img width="350" alt="bmc-button" src="https://github.com/user-attachments/assets/71fddf38-85ed-4a21-9cd6-fdf08dc89f04"> <a/>
 
-### Premium Partners
-
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
