@@ -217,10 +217,7 @@
                     			<div class="f1-progress">
                     			    <div class="f1-progress-line" data-now-value="16.66" data-number-of-steps="3" style="width: 16.66%;"></div>
                     			</div>
-                    			<div class="f1-step active">
-                    				<div class="f1-step-icon"><i class="fa fa-user"></i></div>
-                    				<p>License Verification</p>
-                    			</div>
+                    			
                     			<div class="f1-step">
                     				<div class="f1-step-icon"><i class="fa fa-key"></i></div>
                     				<p>Dependency Check</p>
@@ -235,22 +232,7 @@
                     			</div>
                     		</div>
                     		
-                    		<fieldset>
-                    		    <h4>License Verification</h4>
-                                <p> We appreciate your purchase. Please enter your license key and press validate.</p>
-                    			<div class="form-group">
-                    			    <label class="sr-only" for="license_key">License key</label>
-                                    <input type="text" name="license_key" value="" placeholder="License key..." class="license_key form-control" id="license_key">
-                                    <span class="message-license" id="lc-succcess">License verified successfully!</span>
-                                    <span class="message-license" id="lc-error">License not match with our record!</span>
-                                    <span class="message-license" id="lc-empty">Write here a valid license key to continue.</span>
-                                </div>
-                                <div class="f1-buttons" >
-                                    <button type="button"  class="btn btn-success btn-validate">Validate</button>
-                                    <button type="button"  class=" btn btn-next btnNext1" disabled>Next</button>
-                                </div>
-
-                            </fieldset>
+                    		
 
                             <fieldset>
                                  <h4>Dependency Check</h4>
